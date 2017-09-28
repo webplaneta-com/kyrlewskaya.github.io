@@ -1,0 +1,50 @@
+body {
+	background-color: #D3E4EE;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+#konfucius {
+	border: 2px solid #B2CBCF;
+	background: #EAE9E5;
+	width: 80%;
+	margin: auto;
+	text-align: center;
+}
+
+#laotzi {
+	border: 2px solid #485B61;
+	background: #BFD1B7;
+	width: 80%;
+	margin: auto;
+	text-align: center;
+}
+
+#hippokrat {
+	border: 2px solid #B2CBCF;
+	background: #EAE9E5;
+	width: 80%;
+	margin: auto;
+	text-align: center;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.strong {
+	font-weight: bold;
+}
+
+#quote {
+	margin-left: 5%;
+}
+
+a {
+	font-style: italic;
+	font-weight: 600;
+	color: #485B61;
+	text-decoration: none;
+}
