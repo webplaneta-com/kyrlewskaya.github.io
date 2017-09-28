@@ -1,0 +1,60 @@
+.header {
+	font-size: 24px;
+	font-family: Tahoma, sans-serif;
+	line-height: 1.5;
+	margin-top: 120px;
+	margin-bottom: 90px;
+}
+
+.header span {
+	display: block;
+}
+
+.form {
+	border: 5px solid #472cc3;
+	padding: 35px 15px;
+}
+
+.form-header {
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 45px;
+}
+
+.form input {
+	margin-bottom: 10px;
+}
+
+.button {
+	background-color: #472cc3;
+}
+
+.benheader {
+	font: 24px Tahoma, sans-serif ;
+	font-weight: bold;
+	margin-top: 120px;
+}
+
+.feature {
+	margin: 85px auto;
+}
+
+.feature-box {
+	height: 150px;
+}
+.feature p {
+	font: 16px Tahoma, sans-serif;
+	font-weight: bold;
+	margin-top: 20px;
+}
+
+.cliheader {
+	font: 24px Tahoma, sans-serif;
+	font-weight: bold;
+	margin-top: 100px;
+	margin-bottom: 70px;
+}
+
+.clibox {
+	margin-bottom: 35px;
+}
