@@ -15,7 +15,7 @@
 
 [Урок 8](https://github.com/kyrlewskaya/kyrlewskaya.github.io/tree/master/Lesson_8 "Ускорение верстки в разы")
 
-[Урок 9](https://github.com/kyrlewskaya/kyrlewskaya.github.io/tree/master/Lesson_9 "Верстка при помощи Bootstrap 3")
+[Урок 9](https://github.com/kyrlewskaya.github.io/Lesson_9/src/"Верстка при помощи Bootstrap 3")
 
 [Урок 10](https://github.com/kyrlewskaya/kyrlewskaya.github.io/tree/master/Lesson_10 "Препроцессор LESS для CSS")
 
